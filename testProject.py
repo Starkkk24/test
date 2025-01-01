@@ -41,4 +41,4 @@ elif user==2 and comp==1:
 elif user==comp:
     print("== Draw ==")
 else:
-    print("Better luck next time! :x")
+    print("Please try next time! :x")
